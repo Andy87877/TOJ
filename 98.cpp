@@ -1,8 +1,4 @@
-#include <iostream>
-// #include <cmath>
-// #include <map>
-// #include <string>
-// #include <algorithm>
+#include <bits/stdc++.h>
 #define ll long long
 using namespace std;
 
